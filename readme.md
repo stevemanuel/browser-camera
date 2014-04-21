@@ -7,6 +7,8 @@ Using just a few webRTC standards, we can implement a camera using just the brow
 navigator.getUserMedia
 ```
 
+[Download Link](https://github.com/stevemanuel/browser-camera/archive/master.zip)
+
 ## How does it work?
 ### Streams!
 
